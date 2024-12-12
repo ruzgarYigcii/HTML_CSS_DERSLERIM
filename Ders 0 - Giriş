@@ -1,0 +1,7 @@
+Ders 0 - Giriş:
+
+Html sitesi oluştururken kullandığımız ana etiketler bulunmaktadır. Bu etiketler olmadan kodlama yapmamız mümkün değil.
+
+• <html> etiketi: Sayfadaki her şey Html etiketinin içerisine yazılır. Ana kapsayıcı etikettir.
+• <head> etiketi: Sayfanın görülmeyen işlemlerini gerçekleştiren bölümdür.
+• <body> etiketi: Sayfada görülen tam anlamıyla her şeyin olduğu bölümdür. Sayfanın vücududur.
